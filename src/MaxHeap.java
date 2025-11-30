@@ -1,3 +1,9 @@
+/** 
+    Hamza Siddiqui
+    CSI 3620
+    This file defines the MaxHeap data structure to manage Task objects based on their priority.
+**/
+
 public class MaxHeap {
     private Task[] heap;
     private int size;

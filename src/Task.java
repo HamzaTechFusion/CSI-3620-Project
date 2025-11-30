@@ -1,3 +1,9 @@
+/** 
+    Hamza Siddiqui
+    CSI 3620
+    This file defines the Task object used in the program. It stores the task’s description and priority
+**/
+
 public class Task {
     private String description;
     private int priority;

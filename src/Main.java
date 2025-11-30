@@ -1,3 +1,9 @@
+/** 
+    Hamza Siddiqui
+    CSI 3620
+    This is the main file that runs the Priority Planner application.
+**/
+
 import java.util.Scanner;
 
 public class Main {
