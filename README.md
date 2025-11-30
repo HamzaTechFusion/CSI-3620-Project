@@ -47,5 +47,11 @@ Update a task’s priority after creation
 Remove a specific task by description
 Add a graphical interface in the future
 
+GitHub Repository link
+https://github.com/HamzaTechFusion/CSI-3620-Project
+
+Project Recording (Video Demo)
+https://drive.google.com/file/d/19WAGoZn5wDYs7IgITicA1VfSnIBEa5ND/view?usp=sharing
+
 
 
