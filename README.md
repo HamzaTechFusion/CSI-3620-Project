@@ -47,6 +47,9 @@ Update a task’s priority after creation
 Remove a specific task by description
 Add a graphical interface in the future
 
+AI Usage
+All aspects of the PriorityPlanner development are my own; I designed, planned, and wrote the entire project including the max heap structure and all the menu functions. I used AI to assist me with a few minor corrections and enhancements on priority comparisons within the methods (insert(), peek(), and extractMax()). I also received some assistance with formatting output for better presentation. I tested the program completely by myself and have documented everything related to this project's demonstration. I understand the entire process of developing the program and the code itself through my own efforts.
+
 GitHub Repository link
 https://github.com/HamzaTechFusion/CSI-3620-Project
 
